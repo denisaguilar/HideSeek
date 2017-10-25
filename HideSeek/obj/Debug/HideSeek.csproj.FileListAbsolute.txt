@@ -1,0 +1,7 @@
+D:\Projects\HideSeek\HideSeek\HideSeek\bin\Debug\HideSeek.exe.config
+D:\Projects\HideSeek\HideSeek\bin\Debug\HideSeek.exe.config
+D:\Projects\HideSeek\HideSeek\obj\Debug\HideSeek.csprojResolveAssemblyReference.cache
+D:\Projects\HideSeek\HideSeek\bin\Debug\HideSeek.exe
+D:\Projects\HideSeek\HideSeek\bin\Debug\HideSeek.pdb
+D:\Projects\HideSeek\HideSeek\obj\Debug\HideSeek.exe
+D:\Projects\HideSeek\HideSeek\obj\Debug\HideSeek.pdb
